@@ -2,4 +2,4 @@
 
 This is a simple project using only javascript to play rock paper scissors in the console.
 
-Here is the link to the game:[Take a look!]()
+Here is the link to the game:[Take a look!](https://dalemg.github.io/odin-rock-paper-scissors/)
